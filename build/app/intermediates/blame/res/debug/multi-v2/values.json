@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\aaris\\Desktop\\Dart-Development\\splashscreen\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\aaris\\Desktop\\Dart Dev\\Splash-Screen-using-flutters\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aaris\\Desktop\\Dart-Development\\splashscreen\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\aaris\\Desktop\\Dart Dev\\Splash-Screen-using-flutters\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
