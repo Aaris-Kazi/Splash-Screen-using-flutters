@@ -2,6 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
+// import 'home_page.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -27,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
 @override
   void initState() {
     super.initState();
-    Timer(Duration(seconds: 5), () => print('Working'));
+    Timer(Duration(seconds: 5), () => print('hello'));
   }
 
   @override
